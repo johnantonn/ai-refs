@@ -1,5 +1,5 @@
-# read-recommendations
-A list of acclaimed books, publications and articles that I found influencial during my AI studies
+# Recommendations for Artificial Intelligence
+A list of acclaimed books, publications and articles that I found influencial during my AI studies.
 
 ## Books
 |:books:|
