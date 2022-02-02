@@ -1,4 +1,4 @@
-# Recommendations for Artificial Intelligence
+# Recommended reads for Artificial Intelligence
 A list of acclaimed books, publications and articles that I found influencial during my AI studies.
 
 ## Books
