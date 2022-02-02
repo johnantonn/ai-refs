@@ -1,4 +1,4 @@
-# Reading recommendations
+# read-recommendations
 A list of acclaimed books, publications and articles that I found influencial during my AI studies
 
 ## Books
