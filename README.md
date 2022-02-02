@@ -28,3 +28,9 @@ A list of acclaimed books, publications and articles that I found influencial du
 |[Who Is Going To Make Money In AI? Part I](https://towardsdatascience.com/who-is-going-to-make-money-in-ai-part-i-77a2f30b8cef)|
 |[How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59)|
 |[Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)|
+
+## Courses
+|:computer:|
+| ------------- |
+|[UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)|
+|[Neural Networks for Machine Learning — Geoffrey Hinton](https://youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)|
