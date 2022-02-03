@@ -1,5 +1,5 @@
-# Recommended reads for Artificial Intelligence
-A list of acclaimed books, publications and articles that I found influencial during my AI studies.
+# References for Artificial Intelligence
+A list of books, publications and articles that I found influencial during my AI studies.
 
 ## Books
 |:books:|
