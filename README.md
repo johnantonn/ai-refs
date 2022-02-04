@@ -6,6 +6,7 @@ A list of books, publications and articles that I found influencial during my AI
 | ------------- |
 |Russell, Stuart J., and Peter Norvig. 2020. Artificial intelligence: a modern approach. Boston: Pearson.|
 |Ian J. Goodfellow, Yoshua Bengio, & Aaron Courville (2016). Deep Learning. MIT Press.|
+|[Richard S. Sutton and Andrew G. Barto. 2018. Reinforcement Learning: An Introduction. A Bradford Book, Cambridge, MA, USA.](https://dl.acm.org/doi/10.5555/3312046)|
 |Hutter, F., Kotthoff, L., & Vanschoren, J. (2019). Automated Machine Learning: Methods, Systems, Challenges. Springer Publishing Company, Incorporated.|
 |Lattimore, Tor, and Csaba Szepesvári. Bandit Algorithms / Tor Lattimore (deepMind) and Csaba Szepesvari (University of Alberta). Cambridge, United Kingdom ;: Cambridge University Press, 2020.|
 |Leskovec, J., Rajaraman, A., & Ullman, J. (2014). Mining of Massive Datasets. Cambridge University Press.|
