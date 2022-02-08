@@ -14,12 +14,12 @@ A list of books, publications and articles that I found influencial during my AI
 ## Publications
 |:page_with_curl:|
 | ------------- |
-|Bishop, J Mark. “Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It.” Frontiers in psychology vol. 11 513474. 5 Jan. 2021, doi:10.3389/fpsyg.2020.513474|
-|Adnan Darwiche (2017). Human-Level Intelligence or Animal-Like Abilities?. CoRR, abs/1707.04327.|
-|Pedro Domingos (2020). Every Model Learned by Gradient Descent Is Approximately a Kernel Machine. CoRR, abs/2012.00152.|
-|Fernández-Delgado, M., Cernadas, E., Barro, S., & Amorim, D. (2014). Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?. J. Mach. Learn. Res., 15(1), 3133–3181.|
-|B. Shahriari, K. Swersky, Z. Wang, R. P. Adams and N. de Freitas, "Taking the Human Out of the Loop: A Review of Bayesian Optimization," in Proceedings of the IEEE, vol. 104, no. 1, pp. 148-175, Jan. 2016, doi:10.1109/JPROC.2015.2494218.|
-|Brin, S., & Page, L. (1998). The Anatomy of a Large-Scale Hypertextual Web Search Engine. In Proceedings of the Seventh International Conference on World Wide Web 7 (pp. 107–117). Elsevier Science Publishers B. V..|
+|[Bishop, J Mark. “Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It.” Frontiers in psychology vol. 11 513474. 5 Jan. 2021, doi:10.3389/fpsyg.2020.513474](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874145/)|
+|[Adnan Darwiche (2017). Human-Level Intelligence or Animal-Like Abilities?. CoRR, abs/1707.04327.](https://arxiv.org/abs/1707.04327)|
+|[Pedro Domingos (2020). Every Model Learned by Gradient Descent Is Approximately a Kernel Machine. CoRR, abs/2012.00152.](https://arxiv.org/abs/2012.00152)|
+|[Fernández-Delgado, M., Cernadas, E., Barro, S., & Amorim, D. (2014). Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?. J. Mach. Learn. Res., 15(1), 3133–3181.](https://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)|
+|[B. Shahriari, K. Swersky, Z. Wang, R. P. Adams and N. de Freitas, "Taking the Human Out of the Loop: A Review of Bayesian Optimization," in Proceedings of the IEEE, vol. 104, no. 1, pp. 148-175, Jan. 2016, doi:10.1109/JPROC.2015.2494218.](https://ieeexplore.ieee.org/document/7352306)|
+|[Brin, S., & Page, L. (1998). The Anatomy of a Large-Scale Hypertextual Web Search Engine. In Proceedings of the Seventh International Conference on World Wide Web 7 (pp. 107–117). Elsevier Science Publishers B. V..](https://dl.acm.org/doi/abs/10.5555/297805.297827)|
 
 ## Articles
 |:pencil2:|
