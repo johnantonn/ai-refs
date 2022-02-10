@@ -14,6 +14,7 @@ A list of books, publications and articles that I found influencial during my AI
 ## Publications
 |:page_with_curl:|
 | ------------- |
+|[David Silver, Satinder Singh, Doina Precup, Richard S. Sutton, Reward is enough, Artificial Intelligence, Volume 299, 2021, 103535, ISSN 0004-3702, https://doi.org/10.1016/j.artint.2021.103535.](https://www.sciencedirect.com/science/article/pii/S0004370221000862)|
 |[Bishop, J Mark. “Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It.” Frontiers in psychology vol. 11 513474. 5 Jan. 2021, doi:10.3389/fpsyg.2020.513474](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874145/)|
 |[Adnan Darwiche (2017). Human-Level Intelligence or Animal-Like Abilities?. CoRR, abs/1707.04327.](https://arxiv.org/abs/1707.04327)|
 |[Pedro Domingos (2020). Every Model Learned by Gradient Descent Is Approximately a Kernel Machine. CoRR, abs/2012.00152.](https://arxiv.org/abs/2012.00152)|
