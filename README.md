@@ -5,9 +5,9 @@ A list of books, publications and articles that I found influencial during my AI
 |:books:|
 | ------------- |
 |[Russell, Stuart J., and Peter Norvig. (2020). Artificial intelligence: a modern approach. 4th Edition. Boston: Pearson.](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)|
-|[Hutter, F., Kotthoff, L., & Vanschoren, J. (2019). Automated Machine Learning: Methods, Systems, Challenges. Springer Publishing Company, Incorporated.](https://link.springer.com/book/10.1007/978-3-030-05318-5)|
 |[Richard S. Sutton and Andrew G. Barto. (2018). Reinforcement Learning: An Introduction. A Bradford Book, Cambridge, MA, USA.](https://dl.acm.org/doi/10.5555/3312046)|
 |[Ian J. Goodfellow, Yoshua Bengio, & Aaron Courville (2016). Deep Learning. MIT Press.](https://www.deeplearningbook.org/)|
+|[Hutter, F., Kotthoff, L., & Vanschoren, J. (2019). Automated Machine Learning: Methods, Systems, Challenges. Springer Publishing Company, Incorporated.](https://link.springer.com/book/10.1007/978-3-030-05318-5)|
 |[Leskovec, J., Rajaraman, A., & Ullman, J. (2014). Mining of Massive Datasets. Cambridge University Press.](http://www.mmds.org/)|
 |[Han, J., Kamber, M., & Pei, J. (2011). Data Mining: Concepts and Techniques. Morgan Kaufmann Publishers Inc..](https://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790)|
 
