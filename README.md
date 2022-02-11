@@ -31,9 +31,6 @@ A list of books, publications and articles that I found influencial during my AI
 |[Dennis Broeders, Erik Schrijvers, Bart van der Sloot, Rosamunde van Brakel, Josta de Hoog, Ernst Hirsch Ballin, Big Data and security policies: Towards a framework for regulating the phases of analytics and use of Big Data, Computer Law & Security Review, Volume 33, Issue 3, 2017, Pages 309-323, ISSN 0267-3649, https://doi.org/10.1016/j.clsr.2017.03.002.](https://www.sciencedirect.com/science/article/pii/S0267364917300675)|
 |[Gstrein, O. J., Bunnik, A., & Zwitter, A. (2019). Ethical, Legal and Social Challenges of Predictive Policing. Católica Law Review, 3(3), 77-98.](https://research.rug.nl/en/publications/ethical-legal-and-social-challenges-of-predictive-policing)|
 |[Irene Khan. Disinformation and freedom of opinion and expression. Report of the Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression. Human Rights Council. 2021](https://www.ohchr.org/EN/Issues/FreedomOpinion/Pages/Report-on-disinformation.aspx)|
-|**Legacy**|
-|[Brin, S., & Page, L. (1998). The Anatomy of a Large-Scale Hypertextual Web Search Engine. In Proceedings of the Seventh International Conference on World Wide Web 7 (pp. 107–117). Elsevier Science Publishers B. V..](https://dl.acm.org/doi/abs/10.5555/297805.297827)|
-|[M. Minsky, "Steps toward Artificial Intelligence," in Proceedings of the IRE, vol. 49, no. 1, pp. 8-30, Jan. 1961, doi: 10.1109/JRPROC.1961.287775.](https://ieeexplore.ieee.org/document/4066245)|
 
 ## Articles
 |:pencil2:|
