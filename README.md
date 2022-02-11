@@ -35,12 +35,11 @@ A list of books, publications and articles that I found influencial during my AI
 ## Articles
 |:memo:|
 | ------------- |
-|[A 10,000-foot view of AI: Yannic Kilcher on the trends, challenges and opportunities for AI in the near future](https://towardsdatascience.com/a-10-000-foot-view-of-ai-b679de6fa526)|
-|[Who Is Going To Make Money In AI? Part I](https://towardsdatascience.com/who-is-going-to-make-money-in-ai-part-i-77a2f30b8cef)|
-|[How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59)|
-|[Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)|
+|[Convolutional Neural Networks](https://cs231n.github.io/convolutional-networks/)|
+|[Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)|
 |[From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)|
-|[Convolutional Neural Networks (CNNs/ConvNets)](https://cs231n.github.io/convolutional-networks/)|
+|[Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)|
+|[Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)|
 
 ## Courses
 |:computer:|
