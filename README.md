@@ -33,7 +33,7 @@ A list of books, publications and articles that I found influencial during my AI
 |[Irene Khan. Disinformation and freedom of opinion and expression. Report of the Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression. Human Rights Council. 2021](https://www.ohchr.org/EN/Issues/FreedomOpinion/Pages/Report-on-disinformation.aspx)|
 
 ## Articles
-|:pencil2:|
+|:memo:|
 | ------------- |
 |[A 10,000-foot view of AI: Yannic Kilcher on the trends, challenges and opportunities for AI in the near future](https://towardsdatascience.com/a-10-000-foot-view-of-ai-b679de6fa526)|
 |[Who Is Going To Make Money In AI? Part I](https://towardsdatascience.com/who-is-going-to-make-money-in-ai-part-i-77a2f30b8cef)|
@@ -45,3 +45,8 @@ A list of books, publications and articles that I found influencial during my AI
 | ------------- |
 |[UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)|
 |[Neural Networks for Machine Learning — Geoffrey Hinton](https://youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)|
+
+## Other
+|:chart_with_upwards_trend:|
+| ------------- |
+|[ML Visualizer](https://ml-visualizer.herokuapp.com/)|
