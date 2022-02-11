@@ -49,4 +49,6 @@ A list of books, publications and articles that I found influencial during my AI
 ## Other
 |:chart_with_upwards_trend:|
 | ------------- |
+|[AI study guides](https://stanford.edu/~shervine/teaching/cs-229/)|
 |[ML Visualizer](https://ml-visualizer.herokuapp.com/)|
+|[Outlier Detection Visualizer](http://projects.rajivshah.com/shiny/outlier/)|
