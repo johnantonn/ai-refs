@@ -14,13 +14,26 @@ A list of books, publications and articles that I found influencial during my AI
 ## Publications
 |:page_with_curl:|
 | ------------- |
+| **General** |
 |[David Silver, Satinder Singh, Doina Precup, Richard S. Sutton, Reward is enough, Artificial Intelligence, Volume 299, 2021, 103535, ISSN 0004-3702, https://doi.org/10.1016/j.artint.2021.103535.](https://www.sciencedirect.com/science/article/pii/S0004370221000862)|
 |[Bishop, J Mark. “Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It.” Frontiers in psychology vol. 11 513474. 5 Jan. 2021, doi:10.3389/fpsyg.2020.513474](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874145/)|
 |[Adnan Darwiche (2017). Human-Level Intelligence or Animal-Like Abilities?. CoRR, abs/1707.04327.](https://arxiv.org/abs/1707.04327)|
-|[Pedro Domingos (2020). Every Model Learned by Gradient Descent Is Approximately a Kernel Machine. CoRR, abs/2012.00152.](https://arxiv.org/abs/2012.00152)|
 |[Fernández-Delgado, M., Cernadas, E., Barro, S., & Amorim, D. (2014). Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?. J. Mach. Learn. Res., 15(1), 3133–3181.](https://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)|
+|**SOA**|
+|[Pedro Domingos (2020). Every Model Learned by Gradient Descent Is Approximately a Kernel Machine. CoRR, abs/2012.00152.](https://arxiv.org/abs/2012.00152)|
+|[Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep Double Descent: Where Bigger Models and More Data Hurt. CoRR, abs/1912.02292. Opgehaal van http://arxiv.org/abs/1912.02292](https://arxiv.org/abs/1912.02292)|
+|[Kingma, D. P., & Ba, J. (2015). Adam: A Method for Stochastic Optimization. In Y. Bengio & Y. LeCun (Reds), 3rd International Conference on Learning Representations, ICLR 2015, San Diego, CA, USA, May 7-9, 2015, Conference Track Proceedings. Opgehaal van http://arxiv.org/abs/1412.6980](https://arxiv.org/abs/1412.6980)|
 |[B. Shahriari, K. Swersky, Z. Wang, R. P. Adams and N. de Freitas, "Taking the Human Out of the Loop: A Review of Bayesian Optimization," in Proceedings of the IEEE, vol. 104, no. 1, pp. 148-175, Jan. 2016, doi:10.1109/JPROC.2015.2494218.](https://ieeexplore.ieee.org/document/7352306)|
+|[Paleyes, A., Urma, R.-G., & Lawrence, N. D. (2020). Challenges in Deploying Machine Learning: a Survey of Case Studies. CoRR, abs/2011.09926. Opgehaal van https://arxiv.org/abs/2011.09926](https://arxiv.org/pdf/2011.09926.pdf)|
+|**Ethics & Privacy**|
+|[European Commission, Directorate-General for Communications Networks, Content and Technology, Ethics guidelines for trustworthy AI, Publications Office, 2019, https://data.europa.eu/doi/10.2759/177365](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)|
+|[Anton Vedder & Laurens Naudts (2017): Accountability for the use of algorithms in a big data environment, International Review of Law, Computers & Technology, DOI: 10.1080/13600869.2017.1298547](https://www.tandfonline.com/doi/full/10.1080/13600869.2017.1298547)|
+|[Dennis Broeders, Erik Schrijvers, Bart van der Sloot, Rosamunde van Brakel, Josta de Hoog, Ernst Hirsch Ballin, Big Data and security policies: Towards a framework for regulating the phases of analytics and use of Big Data, Computer Law & Security Review, Volume 33, Issue 3, 2017, Pages 309-323, ISSN 0267-3649, https://doi.org/10.1016/j.clsr.2017.03.002.](https://www.sciencedirect.com/science/article/pii/S0267364917300675)|
+|[Gstrein, O. J., Bunnik, A., & Zwitter, A. (2019). Ethical, Legal and Social Challenges of Predictive Policing. Católica Law Review, 3(3), 77-98.](https://research.rug.nl/en/publications/ethical-legal-and-social-challenges-of-predictive-policing)|
+|[Irene Khan. Disinformation and freedom of opinion and expression. Report of the Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression. Human Rights Council. 2021](https://www.ohchr.org/EN/Issues/FreedomOpinion/Pages/Report-on-disinformation.aspx)|
+|**Legacy**|
 |[Brin, S., & Page, L. (1998). The Anatomy of a Large-Scale Hypertextual Web Search Engine. In Proceedings of the Seventh International Conference on World Wide Web 7 (pp. 107–117). Elsevier Science Publishers B. V..](https://dl.acm.org/doi/abs/10.5555/297805.297827)|
+|[M. Minsky, "Steps toward Artificial Intelligence," in Proceedings of the IRE, vol. 49, no. 1, pp. 8-30, Jan. 1961, doi: 10.1109/JRPROC.1961.287775.](https://ieeexplore.ieee.org/document/4066245)|
 
 ## Articles
 |:pencil2:|
