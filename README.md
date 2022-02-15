@@ -52,3 +52,4 @@ A list of books, publications and articles that I found influencial during my AI
 |[AI study guides](https://stanford.edu/~shervine/teaching/cs-229/)|
 |[ML Visualizer](https://ml-visualizer.herokuapp.com/)|
 |[Outlier Detection Visualizer](http://projects.rajivshah.com/shiny/outlier/)|
+|[Applied Machine Learning with Python](https://amueller.github.io/aml/index.html#)|
