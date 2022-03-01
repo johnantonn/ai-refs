@@ -18,7 +18,9 @@ A list of books, publications and articles that I found influencial during my AI
 |[Bishop, J Mark. “Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It.” Frontiers in psychology vol. 11 513474. 5 Jan. 2021, doi:10.3389/fpsyg.2020.513474](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874145/)|
 |[Adnan Darwiche (2017). Human-Level Intelligence or Animal-Like Abilities?. CoRR, abs/1707.04327.](https://arxiv.org/abs/1707.04327)|
 |[Fernández-Delgado, M., Cernadas, E., Barro, S., & Amorim, D. (2014). Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?. J. Mach. Learn. Res., 15(1), 3133–3181.](https://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)|
-|**SOA**|
+|**State of the Art**|
+|[Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/pdf/2103.01988.pdf?fbclid=IwAR2pqhYda6MV9r2b3Afx_0eKUiZhX-Es6Pa_FbLOqH8fglQzO2kY3yKxZE8)|
+|[Deep Neural Networks for YouTube Recommendations](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)|
 |[Pedro Domingos (2020). Every Model Learned by Gradient Descent Is Approximately a Kernel Machine. CoRR, abs/2012.00152.](https://arxiv.org/abs/2012.00152)|
 |[Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep Double Descent: Where Bigger Models and More Data Hurt. CoRR, abs/1912.02292. Opgehaal van http://arxiv.org/abs/1912.02292](https://arxiv.org/abs/1912.02292)|
 |[Kingma, D. P., & Ba, J. (2015). Adam: A Method for Stochastic Optimization. In Y. Bengio & Y. LeCun (Reds), 3rd International Conference on Learning Representations, ICLR 2015, San Diego, CA, USA, May 7-9, 2015, Conference Track Proceedings. Opgehaal van http://arxiv.org/abs/1412.6980](https://arxiv.org/abs/1412.6980)|
@@ -34,18 +36,14 @@ A list of books, publications and articles that I found influencial during my AI
 ## Articles
 |:memo:|
 | ------------- |
-|[Convolutional Neural Networks](https://cs231n.github.io/convolutional-networks/)|
-|[Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)|
-|[From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)|
-|[Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)|
-|[Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)|
+|[Yann LeCun on a vision to make AI systems learn and reason like animals and humans](https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research?utm_source=linkedin&utm_medium=organic_social&utm_campaign=itl&utm_content=day-of)|
+|[Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)|
 
 ## Courses
 |:computer:|
 | ------------- |
 |[UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)|
 |[Machine Learning — Andrew Ng, Stanford University](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)|
-|[Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)|
 |[Neural Networks for Machine Learning — Geoffrey Hinton](https://youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)|
 
 ## Other
