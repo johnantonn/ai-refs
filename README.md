@@ -45,6 +45,7 @@ A list of books, publications and articles that I found influencial during my AI
 | ------------- |
 |[UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)|
 |[Machine Learning — Andrew Ng, Stanford University](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)|
+|[Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)|
 |[Neural Networks for Machine Learning — Geoffrey Hinton](https://youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)|
 
 ## Other
