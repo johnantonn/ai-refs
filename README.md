@@ -23,6 +23,7 @@ A list of books, publications and articles that I found influencial during my AI
 |[Deep Neural Networks for YouTube Recommendations](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)|
 |[Pedro Domingos (2020). Every Model Learned by Gradient Descent Is Approximately a Kernel Machine. CoRR, abs/2012.00152.](https://arxiv.org/abs/2012.00152)|
 |[Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep Double Descent: Where Bigger Models and More Data Hurt. CoRR, abs/1912.02292. Opgehaal van http://arxiv.org/abs/1912.02292](https://arxiv.org/abs/1912.02292)|
+|[Folding: Why Good Models Sometimes Make Spurious Recommendations](https://dl.acm.org/doi/pdf/10.1145/3109859.3109911)|
 |[Kingma, D. P., & Ba, J. (2015). Adam: A Method for Stochastic Optimization. In Y. Bengio & Y. LeCun (Reds), 3rd International Conference on Learning Representations, ICLR 2015, San Diego, CA, USA, May 7-9, 2015, Conference Track Proceedings. Opgehaal van http://arxiv.org/abs/1412.6980](https://arxiv.org/abs/1412.6980)|
 |[Vaswani, Ashish et al. “Attention is All you Need”. Advances in Neural Information Processing Systems. Red I. Guyon et al. vol 30. Curran Associates, Inc., 2017. Web.](https://arxiv.org/abs/1706.03762)|
 |[B. Shahriari, K. Swersky, Z. Wang, R. P. Adams and N. de Freitas, "Taking the Human Out of the Loop: A Review of Bayesian Optimization," in Proceedings of the IEEE, vol. 104, no. 1, pp. 148-175, Jan. 2016, doi:10.1109/JPROC.2015.2494218.](https://ieeexplore.ieee.org/document/7352306)|
@@ -38,6 +39,7 @@ A list of books, publications and articles that I found influencial during my AI
 | ------------- |
 |[Yann LeCun on a vision to make AI systems learn and reason like animals and humans](https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research?utm_source=linkedin&utm_medium=organic_social&utm_campaign=itl&utm_content=day-of)|
 |[Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)|
+|[Deep Neural Networks for YouTube Recommendations](https://research.google/pubs/pub45530/)|
 
 ## Courses
 |:computer:|
