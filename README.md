@@ -14,6 +14,7 @@ A list of books, publications and articles that I found influencial during my AI
 |:page_with_curl:|
 | ------------- |
 | **General** |
+|[Samuel R. Bowman (2021). When Combating Hype, Proceed with Caution. CoRR, abs/2110.08300.](https://arxiv.org/abs/2110.08300)|
 |[David Silver, Satinder Singh, Doina Precup, Richard S. Sutton, Reward is enough, Artificial Intelligence, Volume 299, 2021, 103535, ISSN 0004-3702, https://doi.org/10.1016/j.artint.2021.103535.](https://www.sciencedirect.com/science/article/pii/S0004370221000862)|
 |[Bishop, J Mark. “Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It.” Frontiers in psychology vol. 11 513474. 5 Jan. 2021, doi:10.3389/fpsyg.2020.513474](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874145/)|
 |[Adnan Darwiche (2017). Human-Level Intelligence or Animal-Like Abilities?. CoRR, abs/1707.04327.](https://arxiv.org/abs/1707.04327)|
