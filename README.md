@@ -42,6 +42,7 @@ A list of books, publications and articles that I found influencial during my AI
 |[Yann LeCun on a vision to make AI systems learn and reason like animals and humans](https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research?utm_source=linkedin&utm_medium=organic_social&utm_campaign=itl&utm_content=day-of)|
 |[Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)|
 |[Deep Neural Networks for YouTube Recommendations](https://research.google/pubs/pub45530/)|
+|[Bias-Variance Decomposition](http://rasbt.github.io/mlxtend/user_guide/evaluate/bias_variance_decomp/#api)|
 
 ## Courses
 |:computer:|
