@@ -1,6 +1,8 @@
 # References for Artificial Intelligence
 A list of books, publications and articles that I found influencial during my AI studies.
 
+![image](https://user-images.githubusercontent.com/8168416/157867347-cea81f28-4733-454e-b1c6-4db35ad6de7c.png)
+
 ## Books
 |:books:|
 | ------------- |
