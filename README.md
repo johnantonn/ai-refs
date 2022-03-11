@@ -4,13 +4,13 @@ A list of books, publications and articles that I found influencial during my AI
 ![image](https://user-images.githubusercontent.com/8168416/157867347-cea81f28-4733-454e-b1c6-4db35ad6de7c.png)
 
 ## Books
-|:books:|
-| ------------- |
-|[Russell, Stuart J., and Peter Norvig. (2020). Artificial intelligence: a modern approach. 4th Edition. Boston: Pearson.](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)|
-|[Richard S. Sutton and Andrew G. Barto. (2018). Reinforcement Learning: An Introduction. A Bradford Book, Cambridge, MA, USA.](https://dl.acm.org/doi/10.5555/3312046)|
-|[Ian J. Goodfellow, Yoshua Bengio, & Aaron Courville (2016). Deep Learning. MIT Press.](https://www.deeplearningbook.org/)|
-|[Hutter, F., Kotthoff, L., & Vanschoren, J. (2019). Automated Machine Learning: Methods, Systems, Challenges. Springer Publishing Company, Incorporated.](https://link.springer.com/book/10.1007/978-3-030-05318-5)|
-|[Leskovec, J., Rajaraman, A., & Ullman, J. (2014). Mining of Massive Datasets. Cambridge University Press.](http://www.mmds.org/)|
+|Title|Authors|Year|Link|
+|:-------------|:-------------|-------------|-------------|
+|Artificial Intelligence: A Modern Approach, 4th Edition|Stuart J. Russell, Peter Norvig|2020|[:link:](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)|
+|Reinforcement Learning: An Introduction|Richard S. Sutton, Andrew G. Barto|2018|[:link:](https://dl.acm.org/doi/10.5555/3312046)|
+|Deep Learning|Ian J. Goodfellow, Yoshua Bengio, Aaron Courville|2016|[:link:](https://www.deeplearningbook.org/)|
+|Automated Machine Learning: Methods, Systems, Challenges|Frank Hutter, Lars Kotthoff, Joaquin Vanschoren|2019|[:link:](https://link.springer.com/book/10.1007/978-3-030-05318-5)|
+|Mining of Massive Datasets|Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman|2014|[:link:](http://www.mmds.org/)|
 
 ## Publications
 |:page_with_curl:|
