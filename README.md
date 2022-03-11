@@ -10,7 +10,7 @@ A list of books, publications and articles that I found influencial during my AI
 |Reinforcement Learning: An Introduction|Richard Sutton, Andrew Barto|2018|[:link:](https://dl.acm.org/doi/10.5555/3312046)|
 |Deep Learning|Ian Goodfellow, Yoshua Bengio, Aaron Courville|2016|[:link:](https://www.deeplearningbook.org/)|
 |Automated Machine Learning: Methods, Systems, Challenges|Frank Hutter, Lars Kotthoff, Joaquin Vanschoren|2019|[:link:](https://link.springer.com/book/10.1007/978-3-030-05318-5)|
-|Mining of Massive Datasets|Jure Leskovec, Anand Rajaraman, Jeff Ullman|2014|[:link:](http://www.mmds.org/)|
+|Mining of Massive Datasets|Jure Leskovec, Anand Rajaraman, Jeff Ullman|2019|[:link:](http://www.mmds.org/)|
 
 ## Publications
 |:page_with_curl:|
