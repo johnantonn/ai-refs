@@ -50,15 +50,15 @@ A list of books, publications and articles that I found influencial during my AI
 
 ## Courses (YouTube)
 |Title|Instructors|Institution|Year|Link|
-|:-------------|:-------------|-------------|-------------|-------------|
+|:-------------|:-------------|:-------------|-------------|-------------|
 |Introduction to Artificial Intelligence|Pieter Abbeel, Dan Klein|UC Berkeley|2018|[:link:](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)|
 |Machine Learning|Andrew Ng|Stanford University|2017|[:link:](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)|
 |Neural Networks for Machine Learning|Geoffrey Hinton|Coursera|2012|[:link:](https://youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)|
 
 ## Other
-|About|Link|
-|:-------------|-------------|
-|AI study guides|[:link:](https://stanford.edu/~shervine/teaching/cs-229/)|
-|ML Visualizer|[:link:](https://ml-visualizer.herokuapp.com/)|
-|Outlier Detection Visualizer|[:link:](http://projects.rajivshah.com/shiny/outlier/)|
-|Applied Machine Learning with Python|[:link:](https://amueller.github.io/aml/index.html#)|
+|About|Creator|Link|
+|:-------------|:-------------|-------------|
+|AI study guides|Shervine Amidi|[:link:](https://stanford.edu/~shervine/teaching/cs-229/)|
+|ML Visualizer|Sagnik Bhattacharya|[:link:](https://ml-visualizer.herokuapp.com/)|
+|Outlier Detection Visualizer|Rajiv Shah|[:link:](http://projects.rajivshah.com/shiny/outlier/)|
+|Applied Machine Learning with Python|Andreas C. Müller|[:link:](https://amueller.github.io/aml/index.html#)|
