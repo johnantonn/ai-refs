@@ -37,6 +37,7 @@ A list of books, publications and articles that I found influencial during my AI
 |Adam: A Method for Stochastic Optimization|Diederik Kingma, Jimmy Ba|2015|[:link:](https://arxiv.org/abs/1412.6980)|
 |Attention is All you Need|Ashish Vaswani, Noam Shazeer, Niki Parmar et al.|2017|[:link:](https://arxiv.org/abs/1706.03762)|
 |Taking the Human Out of the Loop: A Review of Bayesian Optimization|Bobak Shahriari, Kevin Swersky, Ziyu Wang, Ryan Adams, Nando de Freitas|2016|[:link:](https://ieeexplore.ieee.org/document/7352306)|
+|SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization|Marius Lindauer, Katharina Eggensperger, Matthias Feurer et al.|2021|[:link:](https://arxiv.org/abs/2109.09831)|
 |Challenges in Deploying Machine Learning: a Survey of Case Studies|Andrei Paleyes, Raoul-Gabriel Urma, Neil Lawrence|2020|[:link:](https://arxiv.org/pdf/2011.09926.pdf)|
 |Efficient Estimation of Word Representations in Vector Space|Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean|2013|[:link:](https://arxiv.org/pdf/1301.3781.pdf)|
 
