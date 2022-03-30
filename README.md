@@ -47,14 +47,15 @@ A list of books, publications and articles that I found influencial during my AI
 |Ethics guidelines for trustworthy AI|European Commission|2019|[:link:](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)|
 |Big Data and security policies: Towards a framework for regulating the phases of analytics and use of Big Data|Dennis Broeders, Erik Schrijvers, Bart van der Sloot et al.|2017|[:link:](https://www.sciencedirect.com/science/article/pii/S0267364917300675)|
 |Ethical, Legal and Social Challenges of Predictive Policing|Oskar Gstrein, Anno Bunnik, Andrej Zwitter|2019|[:link:](https://research.rug.nl/en/publications/ethical-legal-and-social-challenges-of-predictive-policing)|
-|Disinformation and freedom of opinion and expression|Irene Khan|2021|[:link:](https://www.ohchr.org/EN/Issues/FreedomOpinion/Pages/Report-on-disinformation.aspx)|
+|Disinformation and freedom of opinion and expression|Irene Khan|2021|[:link:](https://www.ohchr.org/EN/Issues/FreedomOpinion/Pages/Report-on-dis:link:information.aspx)|
 
-## Courses (YouTube)
+## Courses
 |Title|Instructors|Institution|Year|Link|
 |:-------------|:-------------|:-------------|-------------|-------------|
 |Introduction to Artificial Intelligence|Pieter Abbeel, Dan Klein|UC Berkeley|2018|[:link:](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)|
 |Machine Learning|Andrew Ng|Stanford University|2017|[:link:](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)|
 |Neural Networks for Machine Learning|Geoffrey Hinton|Coursera|2012|[:link:](https://youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)|
+|Deep Learning Specialization | Andrew Ng | Coursera | 2022 | [:link:](https://www.coursera.org/specializations/deep-learning?)
 
 ## Other
 |About|Creator|Link|
