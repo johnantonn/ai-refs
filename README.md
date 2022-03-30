@@ -42,6 +42,8 @@ A list of books, publications and articles that I found influencial during my AI
 
 |Title|Authors|Year|Link|
 |:-------------|:-------------|-------------|-------------|
+|Auto-Sklearn 2.0: Hands-free AutoML via Meta-Learning|Matthias Feurer, Katharina Eggensperger, Stefan Falkner et al.|2021|[:link:](https://arxiv.org/abs/2007.04074)|
+|SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization|Marius Lindauer, Katharina Eggensperger, Matthias Feurer et al.|2021|[:link:](https://arxiv.org/abs/2109.09831)|
 |Taking the Human Out of the Loop: A Review of Bayesian Optimization|Bobak Shahriari, Kevin Swersky, Ziyu Wang, Ryan Adams, Nando de Freitas|2016|[:link:](https://ieeexplore.ieee.org/document/7352306)|
 
 ### Ethics & Privacy
