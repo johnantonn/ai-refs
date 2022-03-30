@@ -24,22 +24,25 @@ A list of books, publications and articles that I found influencial during my AI
 |Human-Level Intelligence or Animal-Like Abilities?|Adnan Darwiche|2017|[:link:](https://arxiv.org/abs/1707.04327)|
 |Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?|Manuel Fernandez-Delgado, Eva Cernadas, Senen Barro|2014|[:link:](https://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)|
 
-### State-of-the-art
+### Deep Learning
 
 |Title|Authors|Year|Link|
 |:-------------|:-------------|-------------|-------------|
-|Language Models are Few-Shot Learners|Tom B. Brown, Benjamin Mann, Nick Ryder et al.|2020|[:link:](https://arxiv.org/pdf/2005.14165.pdf)|
 |Self-supervised Pretraining of Visual Features in the Wild|Priya Goyal, Mathilde Caron, Benjamin Lefaudeux et al.|2021|[:link:](https://arxiv.org/pdf/2103.01988.pdf?fbclid=IwAR2pqhYda6MV9r2b3Afx_0eKUiZhX-Es6Pa_FbLOqH8fglQzO2kY3yKxZE8)|
-|Deep Neural Networks for YouTube Recommendations|Paul Covington, Jay Adams, Emre Sargin|2016|[:link:](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)|
 |Every Model Learned by Gradient Descent Is Approximately a Kernel Machine|Pedro Domingos|2020|[:link:](https://arxiv.org/abs/2012.00152)|
 |Deep Double Descent: Where Bigger Models and More Data Hurt|Preetum Nakkiran, Gal Kaplun, Yamini Bansal et al.|2019|[:link:](https://arxiv.org/abs/1912.02292)|
 |Folding: Why Good Models Sometimes Make Spurious Recommendations|Doris Xin, Nicolas Mayoraz, Hubert Pham et al.|2017|[:link:](https://dl.acm.org/doi/pdf/10.1145/3109859.3109911)|
-|Adam: A Method for Stochastic Optimization|Diederik Kingma, Jimmy Ba|2015|[:link:](https://arxiv.org/abs/1412.6980)|
 |Attention is All you Need|Ashish Vaswani, Noam Shazeer, Niki Parmar et al.|2017|[:link:](https://arxiv.org/abs/1706.03762)|
-|Taking the Human Out of the Loop: A Review of Bayesian Optimization|Bobak Shahriari, Kevin Swersky, Ziyu Wang, Ryan Adams, Nando de Freitas|2016|[:link:](https://ieeexplore.ieee.org/document/7352306)|
-|SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization|Marius Lindauer, Katharina Eggensperger, Matthias Feurer et al.|2021|[:link:](https://arxiv.org/abs/2109.09831)|
-|Challenges in Deploying Machine Learning: a Survey of Case Studies|Andrei Paleyes, Raoul-Gabriel Urma, Neil Lawrence|2020|[:link:](https://arxiv.org/pdf/2011.09926.pdf)|
+|Deep Neural Networks for YouTube Recommendations|Paul Covington, Jay Adams, Emre Sargin|2016|[:link:](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)|
+|Language Models are Few-Shot Learners|Tom B. Brown, Benjamin Mann, Nick Ryder et al.|2020|[:link:](https://arxiv.org/pdf/2005.14165.pdf)|
 |Efficient Estimation of Word Representations in Vector Space|Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean|2013|[:link:](https://arxiv.org/pdf/1301.3781.pdf)|
+|Adam: A Method for Stochastic Optimization|Diederik Kingma, Jimmy Ba|2015|[:link:](https://arxiv.org/abs/1412.6980)|
+
+### AutoML
+
+|Title|Authors|Year|Link|
+|:-------------|:-------------|-------------|-------------|
+|Taking the Human Out of the Loop: A Review of Bayesian Optimization|Bobak Shahriari, Kevin Swersky, Ziyu Wang, Ryan Adams, Nando de Freitas|2016|[:link:](https://ieeexplore.ieee.org/document/7352306)|
 
 ### Ethics & Privacy
 |Title|Authors|Year|Link|
