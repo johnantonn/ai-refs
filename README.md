@@ -28,6 +28,7 @@ A list of books, publications and articles that I found influencial during my AI
 
 |Title|Authors|Year|Link|
 |:-------------|:-------------|-------------|-------------|
+|Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets|Alethea Power, Yuri Burda, Harri Edwards, et al.| 2022 |[:link:](https://arxiv.org/abs/2201.02177)|
 |Self-supervised Pretraining of Visual Features in the Wild|Priya Goyal, Mathilde Caron, Benjamin Lefaudeux et al.|2021|[:link:](https://arxiv.org/pdf/2103.01988.pdf?fbclid=IwAR2pqhYda6MV9r2b3Afx_0eKUiZhX-Es6Pa_FbLOqH8fglQzO2kY3yKxZE8)|
 |Every Model Learned by Gradient Descent Is Approximately a Kernel Machine|Pedro Domingos|2020|[:link:](https://arxiv.org/abs/2012.00152)|
 |Deep Double Descent: Where Bigger Models and More Data Hurt|Preetum Nakkiran, Gal Kaplun, Yamini Bansal et al.|2019|[:link:](https://arxiv.org/abs/1912.02292)|
